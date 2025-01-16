@@ -41,7 +41,7 @@ The application will:
 Detect your face and eyes.
 Calculate the PERCLOS metric.
 Alert you if drowsiness is detected.
-Press Esc to exit the application.
+Press Esc to exit 
 
 File Structure
 output.py: Main script for the PERCLOS drowsiness detection system.
